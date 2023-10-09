@@ -22,6 +22,7 @@ export default function App() {
     }
   };
 
+
   // This is what our app renders (displays).
   return (
       <View style={styles.container}>
