@@ -4,7 +4,6 @@ import { StyleSheet, View, Text, TextInput, Button } from 'react-native';
 
 // This is our main App component.
 export default function App() {
-
   // Here, we set up state variables. Think of them as variables whose changes can be 'watched' by React.
   const [name, setName] = useState('');
   const [favoriteColor, setFavoriteColor] = useState('');
